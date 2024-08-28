@@ -26,7 +26,10 @@ In addition, you will learn about Deep learning based Natural Language Processin
 |Event|Date|In-class lecture|Materials and Exercises|
 |---------|----|-------------|------------|
 |Lecture 1|Aug. 28|Basic Concepts for understanding AI, ML| | |
-|Lecture 2|Aug. 29|An Introduction to neural networks| | |
+|Lecture 2|Aug. 29|An Introduction to neural networks I | | |
+|Lecture 3|Aug. 28|An Introduction to neural networks II| | |
+|Lecture 4|Aug. 28|Principle Concepts of Deep Learning | |
+
   
 ## Reading list for further discussion
 ### General Techniques
