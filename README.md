@@ -9,7 +9,7 @@ In addition, you will learn about Deep learning based Natural Language Processin
 - This course meets for in-class lecture.
 - For all inquiries related to this course, please contact kyongha AT kisti DOT re DOT kr.
 ### Instructor
-- Dr. Kyong-Ha Lee 
+- Dr. Kyong-Ha Lee AT KISTI(Korea Institute of Science and Technology Information)
 
 ## Materials
 - Book: <a href="https://link.springer.com/book/10.1007/978-3-319-94463-0">Neural networks and deep learning: a textbook</a> by Charu C. Aggarwal(but not mandatory)
