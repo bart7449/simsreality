@@ -27,8 +27,21 @@ In addition, you will learn about Deep learning based Natural Language Processin
 |---------|----|-------------|------------|
 |Lecture 1|Aug. 28|Basic Concepts for understanding AI, ML| | |
 |Lecture 2|Aug. 29|An Introduction to neural networks I | | |
-|Lecture 3|Aug. 28|An Introduction to neural networks II| | |
-|Lecture 4|Aug. 28|Principle Concepts of Deep Learning | |
+|Lecture 3|Sep. 11|An Introduction to neural networks II| | |
+|Lecture 4|Sep. 12|Principle Concepts of Deep Learning | |
+|Lecture 5|Sep. 23| | |
+|Lecture 6|Sep. 25| | |
+|Lecture 7|Sep. 30| | |
+|Lecture 8|Oct. 02| | |
+|Lecture 9|Oct. 07| | |
+|Lecture 9|Oct. 08| | |
+
+
+
+
+
+
+
 
   
 ## Reading list for further discussion
