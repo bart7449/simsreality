@@ -31,7 +31,7 @@ In addition, you will learn about Deep learning based Natural Language Processin
 |Lecture 4|Sep. 12|Convolutional Neural Network I |Character Recognition with MNIST dataset||
 |Lecture 5|Sep. 23|Convolutional Neural Network II|Detecting Pneumonia with X-ray images |
 |Lecture 6|Sep. 25|Time-series data analysis with RNN I| |
-|Lecture 7|Sep. 30|Time-series data analysis with RNN II| |
+|Lecture 7|Sep. 30|Time-series data analysis with RNN II|RNN examples |
 |Lecture 8|Oct. 02|Natural Language Processing with DL I <ul><li>word vectors <li>attention mechanism <li>transformers</ul> | |
 |Lecture 9|Oct. 07|Natural Language Processing with DL II <ul><li>BERT <li>GPT-like model</ul> |Building sLLM |
 |Lecture 9|Oct. 08|Advanced topics and applications | |
