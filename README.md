@@ -27,7 +27,7 @@ In addition, you will learn about Deep learning based Natural Language Processin
 |---------|----|-------------|------------|
 |Lecture 1|Aug. 28|<a href="https://github.com/bart7449/simsreality/blob/main/class1.pdf">Basic Concepts for understanding AI, ML</a>| | |
 |Lecture 2|Aug. 29|<a href="https://github.com/bart7449/simsreality/blob/main/class2.pdf">An Introduction to neural networks I</a><ul><li>neural network<li>Training NN</ul>| | |
-|Lecture 3|Sep. 11||<a href="https://github.com/bart7449/simsreality/blob/main/class3.pdf">An Introduction to neural networks II</a><ul><li>Regression <li>Classification|<a href="https://github.com/bart7449/simsreality/blob/main/Regression.ipynb">Prediction of housing price by using regression techniques</a> | |
+|Lecture 3|Sep. 11|<a href="https://github.com/bart7449/simsreality/blob/main/class3.pdf">An Introduction to neural networks II</a><ul><li>Regression <li>Classification|<a href="https://github.com/bart7449/simsreality/blob/main/Regression.ipynb">Prediction of housing price by using regression techniques</a> | |
 |Lecture 4|Sep. 12|Principle Concepts of Deep Learning | |
 |Lecture 5|Sep. 23| | |
 |Lecture 6|Sep. 25| | |
