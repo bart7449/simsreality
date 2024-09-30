@@ -28,9 +28,9 @@ In addition, you will learn about Deep learning based Natural Language Processin
 |Lecture 1|Aug. 28|<a href="https://github.com/bart7449/simsreality/blob/main/class1.pdf">Basic Concepts for understanding AI, ML</a>| | 
 |Lecture 2|Aug. 29|<a href="https://github.com/bart7449/simsreality/blob/main/class2.pdf">An Introduction to neural networks I</a><ul><li>neural network<li>Training NN</ul>| | 
 |Lecture 3|Sep. 11|<a href="https://github.com/bart7449/simsreality/blob/main/class3.pdf">An Introduction to neural networks II</a><ul><li>Regression <li>Classification|<a href="https://github.com/bart7449/simsreality/blob/main/Regression.ipynb">Prediction of housing price by using regression techniques</a><br><a href="https://github.com/bart7449/simsreality/blob/main/lab2.ipynb">Diabetes classification using NN</a> | 
-|Lecture 4|Sep. 12|<a href="https://github.com/bart7449/simsreality/blob/main/class3.pdf">Convolutional Neural Network I</a> |Character Recognition with MNIST dataset|
-|Lecture 5|Sep. 23|<a href="https://github.com/bart7449/simsreality/blob/main/class3.pdf">Convolutional Neural Network II</a>|<a href="https://github.com/bart7449/simsreality/blob/main/lab3.ipynb">Character Recognition with MNIST dataset</a>
-Detecting Pneumonia with X-ray images |
+|Lecture 4|Sep. 12|<a href="https://github.com/bart7449/simsreality/blob/main/class3.pdf">Convolutional Neural Network I</a> | |
+|Lecture 5|Sep. 23|<a href="https://github.com/bart7449/simsreality/blob/main/class3.pdf">Convolutional Neural Network II</a>|<ul><li><a href="https://github.com/bart7449/simsreality/blob/main/lab3.ipynb">Character Recognition with MNIST dataset</a>
+<li>Detecting Pneumonia with X-ray images </ul>|
 |Lecture 6|Sep. 25|Time-series data analysis with RNN I| 
 |Lecture 7|Sep. 30|Time-series data analysis with RNN II|RNN examples |
 |Lecture 8|Oct. 02|Natural Language Processing with DL I <ul><li>word vectors <li>attention mechanism <li>transformers</ul> | 
