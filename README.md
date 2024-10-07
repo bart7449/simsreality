@@ -30,9 +30,9 @@ In addition, you will learn about Deep learning based Natural Language Processin
 |Lecture 3|Sep. 11|<a href="https://github.com/bart7449/simsreality/blob/main/class3.pdf">An Introduction to neural networks II</a><ul><li>Regression <li>Classification|<a href="https://github.com/bart7449/simsreality/blob/main/Regression.ipynb">Prediction of housing price by using regression techniques</a><br><a href="https://github.com/bart7449/simsreality/blob/main/lab2.ipynb">Diabetes classification using NN</a> | 
 |Lecture 4|Sep. 12|<a href="https://github.com/bart7449/simsreality/blob/main/class3.pdf">Convolutional Neural Network I</a> | |
 |Lecture 5|Sep. 30|<a href="https://github.com/bart7449/simsreality/blob/main/class3.pdf">Convolutional Neural Network II</a>|<a href="https://github.com/bart7449/simsreality/blob/main/lab3.ipynb">Character Recognition with MNIST dataset</a><br><a href="https://github.com/bart7449/simsreality/blob/main/lab4.ipynb"> Detecting Pneumonia with X-ray images</a> |
-|Lecture 6|Oct. 02|<a href="https://github.com/bart7449/simsreality/blob/main/class6.pdf">Recurrent Neural Network</a> |  |
-|Lecture 7|Oct 07|<a href="https://github.com/bart7449/simsreality/blob/main/class7.pdf">RNN and Attention Mechanisms</a> |<a href="https://github.com/bart7449/simsreality/blob/main/lab5.ipynb"> RNN examples </a>| |
-|Lecture 8|Oct. 10|<a href="https://github.com/bart7449/simsreality/blob/main/class8.pdf">Natural Language Processing with DL I</a> <ul><li>word vectors <li>attention mechanism <li>transformers</ul> |  |
+|Lecture 6|Oct. 02|<a href="https://github.com/bart7449/simsreality/blob/main/class6-8.pdf">Recurrent Neural Network</a> |  |
+|Lecture 7|Oct 07|<a href="https://github.com/bart7449/simsreality/blob/main/class6-8.pdf">RNN and Attention Mechanisms</a> |<a href="https://github.com/bart7449/simsreality/blob/main/lab5.ipynb"> RNN examples </a>| |
+|Lecture 8|Oct. 10|<a href="https://github.com/bart7449/simsreality/blob/main/class6-8.pdf">Natural Language Processing with DL I</a> <ul><li>word vectors <li>attention mechanism <li>transformers</ul> |  |
 |Lecture 9|Oct. 14|<a href="https://github.com/bart7449/simsreality/blob/main/class9.pdf">Natural Language Processing with DL II</a> <ul><li>BERT <li>GPT-like model</ul> |Building sLLM | |
 |Lecture 10|Oct. 16|<a href="https://github.com/bart7449/simsreality/blob/main/class10.pdf">Advanced topics and applications</a> |  |
 
